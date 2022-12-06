@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\bin\Debug\net6.0\Reflectıon.exe
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\bin\Debug\net6.0\Reflectıon.deps.json
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\bin\Debug\net6.0\Reflectıon.runtimeconfig.json
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\bin\Debug\net6.0\Reflectıon.dll
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\bin\Debug\net6.0\Reflectıon.pdb
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\obj\Debug\net6.0\Reflectıon.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\obj\Debug\net6.0\Reflectıon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\obj\Debug\net6.0\Reflectıon.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\obj\Debug\net6.0\Reflectıon.AssemblyInfo.cs
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\obj\Debug\net6.0\Reflectıon.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\obj\Debug\net6.0\Reflectıon.dll
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\obj\Debug\net6.0\refint\Reflectıon.dll
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\obj\Debug\net6.0\Reflectıon.pdb
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\obj\Debug\net6.0\Reflectıon.genruntimeconfig.cache
+C:\Users\Dell\Desktop\task1\Reflectıon\Reflectıon\Reflectıon\obj\Debug\net6.0\ref\Reflectıon.dll
